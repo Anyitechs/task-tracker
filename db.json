@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "name": "More React!",
+      "day": "16th July",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "name": "More NodeJS",
+      "day": "Next week",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "name": "More TypeScript!",
+      "day": "Upper week",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "name": "Build Projects!",
+      "day": "Upper weekend",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "name": "Dockerize the Projects",
+      "day": "30th July 2021",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
